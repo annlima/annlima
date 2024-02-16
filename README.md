@@ -1,6 +1,7 @@
 ### 👩‍💻 Andrea Lima Blanca
 
 📧 andrealimablanca@outlook.com
+
 [LinkedIn Profile](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
 
 ---
