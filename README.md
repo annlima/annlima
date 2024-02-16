@@ -1,7 +1,6 @@
 ### 👩‍💻 Andrea Lima Blanca
 
 📧 anskoelim@gmail.com  
-📞 +52 2221208778  
 [LinkedIn Profile](#)
 
 ---
