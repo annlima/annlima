@@ -1,4 +1,4 @@
-### 👩‍💻 Andrea Lima Blanca
+# 👩‍💻 Andrea Lima Blanca
 
 📧 andrealimablanca@outlook.com
 
