@@ -46,7 +46,7 @@
   Logistics sector innovation in traffic monitoring within assembly areas.
 
 - **Hackathon Community Changemakers 2023**: Bronze Medal  
-  Innovative solutions for sustainable development, focusing on gender equality and education.
+  Innovative solutions for sustainable development, focusing on gender equality.
 
 - **FEMCoding Challenge 2023**: Bronze Medal  
   Developed an iOS app prototype promoting gender equality and quality education.
