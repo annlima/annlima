@@ -11,15 +11,12 @@
 - **Computer System Engineering**  
   Universidad de las Américas Puebla, Mexico  
   August 2021 - December 2025  
-  GPA: 9.8/10 | Honors Program Participant  
   _Relevant Coursework:_ Object-Oriented Programming, Data Structures, Embedded Systems, Operating Systems, Numerical Analysis, Theory of Computation.
 
 - **International Baccalaureate**  
   Benemérita Universidad Autónoma de Puebla, Mexico  
-  August 2018 - August 2021  
-  GPA: 9.65/10  
-  _Relevant Coursework:_ Calculus, History, Arts, Physics.
-
+  August 2018 - August 2021
+  
 ---
 
 #### 💼 Work Experience
