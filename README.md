@@ -1,4 +1,5 @@
-# 👩‍💻 Andrea Lima Blanca
+
+![Coral Pastel And Beige Illustration Freelance LinkedIn Banner](https://github.com/annlima/annlima/assets/89811870/28cf1ad1-c0ed-4a19-8a92-72dc27e9d04f)
 
 📧 andrealimablanca@outlook.com
 
