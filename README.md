@@ -12,10 +12,6 @@
   Universidad de las Américas Puebla, Mexico  
   August 2021 - December 2025  
   _Relevant Coursework:_ Object-Oriented Programming, Data Structures, Embedded Systems, Operating Systems, Numerical Analysis, Theory of Computation.
-
-- **International Baccalaureate**  
-  Benemérita Universidad Autónoma de Puebla, Mexico  
-  August 2018 - August 2021
   
 ---
 
@@ -24,20 +20,7 @@
 - **Incoming Explore Intern**  
   Microsoft Corporation, USA  
   May 2024 - August 2024
-
----
-
-#### 🌟 Leadership Activities
-
-- **DevApps, UDLAP**: Team Leader  
-  Created a space for women to learn iOS app development and organized a hackathon focused on sustainable development goals.
-
-- **Yolocihuatl**: Content Editor  
-  Led a non-profit initiative on Instagram to support rural communities in Puebla.
-
-- **CCC de Arte**: Leader  
-  Taught art classes exploring various artistic techniques and movements.
-
+  
 ---
 
 #### 🏆 Awards
