@@ -48,7 +48,7 @@
 ---
 
 #### 🛠 Technical Skills
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azu-any&show_icons=true&locale=en&layout=compact" alt="annlima" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annlima&show_icons=true&locale=en&layout=compact" alt="annlima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azu-any&show_icons=true&locale=en" alt="annlima" /></p>
 - **Proficient:** Python, Java, Swift, SQL, Excel (Advanced), Figma (Advanced)
