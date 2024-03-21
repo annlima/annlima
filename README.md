@@ -70,6 +70,7 @@ andrealimablanca@outlook.com
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 </div>
 
+
 <div align="center"
-<text> **Languages:** Spanish (Native), English (C1) </text>
+<text> Languages: Spanish (Native), English (C1) </text>
 </div>
