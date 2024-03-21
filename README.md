@@ -1,7 +1,10 @@
 
 ![Coral Pastel And Beige Illustration Freelance LinkedIn Banner](https://github.com/annlima/annlima/assets/89811870/28cf1ad1-c0ed-4a19-8a92-72dc27e9d04f)
 
-📧 andrealimablanca@outlook.com
+---
+
+#### 📧 Contact
+andrealimablanca@outlook.com
 
 [LinkedIn Profile](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
 
@@ -11,7 +14,7 @@
 
 - **Computer System Engineering**  
   Universidad de las Américas Puebla, Mexico  
-  August 2021 - December 2025  
+  August 2021 - December 2026  
   _Relevant Coursework:_ Object-Oriented Programming, Data Structures, Embedded Systems, Operating Systems, Numerical Analysis, Theory of Computation.
   
 ---
@@ -68,5 +71,5 @@
 </div>
 
 <div align="center"
-- **Languages:** Spanish (Native), English (C1)
+<text> **Languages:** Spanish (Native), English (C1) </text>
 </div>
