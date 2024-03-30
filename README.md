@@ -2,7 +2,7 @@
 ![Coral Pastel And Beige Illustration Freelance LinkedIn Banner](https://github.com/annlima/annlima/assets/89811870/28cf1ad1-c0ed-4a19-8a92-72dc27e9d04f)
 
 ---
-![Contact](https://github.com/annlima/annlima/assets/89811870/e1b2e930-8e12-47dc-a2e8-ca7e0492027d)
+#### 📧 Contact
 
 andrealimablanca@outlook.com
 
