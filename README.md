@@ -69,6 +69,7 @@
 <text> Languages: Spanish (Native), English (C1) </text>
 </div>
 
+
 ---
 ### 📧 Contact
 
