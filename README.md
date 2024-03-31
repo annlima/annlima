@@ -45,14 +45,8 @@
 
 ---
 ## 🛠 Technical Skills
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=annlima&theme=default&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-</p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annlima&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 
 <div align="center">
