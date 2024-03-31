@@ -44,18 +44,32 @@
 - **Four in Row**: Java-based GUI game for strategic play.
 
 ---
+## 🛠 Technical Skills
 
-### 🛠 Technical Skills
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="annlima" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-<p> <img align="right" src= "https://github-readme-stats.vercel.app/api?username=annlima&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)" alt="annlima" /> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annlima&theme=default&show_icons=true&hide_border=true&count_private=true)
 
+<div align="center">
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
+</div>
 
-
+_Languages: Spanish (Native), English (C1)_
 
 ---
-### 📧 Contact
 
-andrealimablanca@outlook.com
+## 📧 Contact
 
-[LinkedIn Profile](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
+- **Email**: [andrealimablanca@outlook.com](mailto:andrealimablanca@outlook.com)
+- **LinkedIn**: [Andrea Lima Blanca](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
