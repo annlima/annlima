@@ -45,10 +45,13 @@
 
 ---
 ## 🛠 Technical Skills
-<div align="center">
-  <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annlima&theme=default&show_icons=true&hide_border=true&count_private=true)" />
-</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact />
+</div>
+<div align="center">
+  <img src= "https://github-readme-stats.vercel.app/api?username=annlima&theme=default&show_icons=true&hide_border=true&count_private=true" />
+</div>
 
 <div align="center">
   <img width="45" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
