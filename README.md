@@ -47,7 +47,8 @@
 
 ### 🛠 Technical Skills
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annlima&show_icons=true&locale=en&layout=compact" alt="annlima" /></p>
-<p> </p>![annlima's Stats](https://github-readme-stats.vercel.app/api?username=annlima&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) </p>
+<p> img align="right" src= "![annlima's Stats](https://github-readme-stats.vercel.app/api?username=annlima&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)" </p>
+
 <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
