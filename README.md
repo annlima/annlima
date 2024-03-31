@@ -4,7 +4,7 @@
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 - **Computer Systems Engineering**  
   Universidad de las Américas Puebla, Mexico  
@@ -13,7 +13,7 @@
   
 ---
 
-### 💼 Work Experience
+## 💼 Work Experience
 
 - **Incoming Explore Intern**  
   Microsoft Corporation, USA  
@@ -21,7 +21,7 @@
   
 ---
 
-### 🏆 Awards
+## 🏆 Awards
 
 - **Audi Hackathon 2023**: Gold Medal  
   Logistics sector innovation in traffic monitoring within assembly areas.
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 - **WIPER**: iOS app for hazard detection on roads using computer vision and machine learning.
 - **Kung Fu Pacman**: Advanced Pac-man game with AI strategies in C#.
@@ -44,15 +44,18 @@
 - **Four in Row**: Java-based GUI game for strategic play.
 
 ---
-### 🛠 Technical Skills
+## 🛠 Technical Skills
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
+
 <div align="center">
   <img src= "https://github-readme-stats.vercel.app/api?username=annlima&theme=default&show_icons=true&hide_border=true&count_private=true" />
 </div>
+
 
 <div align="center">
   <img width="45" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
@@ -69,11 +72,12 @@
   <img width="45" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
 </div>
 
+
 _Languages: Spanish (Native), English (C1)_
 
 ---
 
-### 📧 Contact
+## 📧 Contact
 
 - **Email**: [andrealimablanca@outlook.com](mailto:andrealimablanca@outlook.com)
 - **LinkedIn**: [Andrea Lima Blanca](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
