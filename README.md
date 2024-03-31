@@ -44,11 +44,12 @@
 - **Four in Row**: Java-based GUI game for strategic play.
 
 ---
-## 🛠 Technical Skills
+### 🛠 Technical Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annlima&theme=default&show_icons=true&hide_border=true&layout=compact" />
 </div>
+
 <div align="center">
   <img src= "https://github-readme-stats.vercel.app/api?username=annlima&theme=default&show_icons=true&hide_border=true&count_private=true" />
 </div>
@@ -72,7 +73,7 @@ _Languages: Spanish (Native), English (C1)_
 
 ---
 
-## 📧 Contact
+### 📧 Contact
 
 - **Email**: [andrealimablanca@outlook.com](mailto:andrealimablanca@outlook.com)
 - **LinkedIn**: [Andrea Lima Blanca](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
