@@ -6,7 +6,7 @@
 
 ### 🎓 Education
 
-- **Computer System Engineering**  
+- **Computer Systems Engineering**  
   Universidad de las Américas Puebla, Mexico  
   August 2021 - December 2026  
   _Relevant Coursework:_ Object-Oriented Programming, Data Structures, Embedded Systems, Operating Systems, Numerical Analysis, Theory of Computation.
