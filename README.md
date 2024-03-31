@@ -65,7 +65,7 @@
 </div>
 
 
-<div align="center"
+<div align="center">
 <text> Languages: Spanish (Native), English (C1) </text>
 </div>
 
