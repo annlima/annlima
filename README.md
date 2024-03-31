@@ -1,16 +1,10 @@
 
 ![Coral Pastel And Beige Illustration Freelance LinkedIn Banner](https://github.com/annlima/annlima/assets/89811870/28cf1ad1-c0ed-4a19-8a92-72dc27e9d04f)
 
----
-#### 📧 Contact
-
-andrealimablanca@outlook.com
-
-[LinkedIn Profile](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
 
 ---
 
-#### 🎓 Education
+### 🎓 Education
 
 - **Computer System Engineering**  
   Universidad de las Américas Puebla, Mexico  
@@ -19,7 +13,7 @@ andrealimablanca@outlook.com
   
 ---
 
-#### 💼 Work Experience
+### 💼 Work Experience
 
 - **Incoming Explore Intern**  
   Microsoft Corporation, USA  
@@ -27,7 +21,7 @@ andrealimablanca@outlook.com
   
 ---
 
-#### 🏆 Awards
+### 🏆 Awards
 
 - **Audi Hackathon 2023**: Gold Medal  
   Logistics sector innovation in traffic monitoring within assembly areas.
@@ -40,7 +34,7 @@ andrealimablanca@outlook.com
 
 ---
 
-#### 🚀 Projects
+### 🚀 Projects
 
 - **WIPER**: iOS app for hazard detection on roads using computer vision and machine learning.
 - **Kung Fu Pacman**: Advanced Pac-man game with AI strategies in C#.
@@ -51,7 +45,7 @@ andrealimablanca@outlook.com
 
 ---
 
-#### 🛠 Technical Skills
+### 🛠 Technical Skills
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annlima&show_icons=true&locale=en&layout=compact" alt="annlima" /></p>
 <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
@@ -74,3 +68,10 @@ andrealimablanca@outlook.com
 <div align="center"
 <text> Languages: Spanish (Native), English (C1) </text>
 </div>
+
+---
+### 📧 Contact
+
+andrealimablanca@outlook.com
+
+[LinkedIn Profile](https://www.linkedin.com/in/andrea-lima-blanca-baa109217/)
