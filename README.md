@@ -8,14 +8,18 @@
 
 - **Computer Systems Engineering**  
   Universidad de las Américas Puebla, Mexico  
-  August 2021 - December 2026  
+  August 2021 - December 2025  
   _Relevant Coursework:_ Object-Oriented Programming, Data Structures, Embedded Systems, Operating Systems, Numerical Analysis, Theory of Computation.
   
 ---
 
 ## 💼 Work Experience
 
-- **Incoming Explore Intern**  
+- **Incoming Software Engineer Intern**  
+  Microsoft Corporation, USA  
+  May 2025 - August 2025
+  
+- **Explorer Intern**  
   Microsoft Corporation, USA  
   May 2024 - August 2024
   
