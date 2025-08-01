@@ -15,7 +15,7 @@
 
 ## 💼 Work Experience
 
-- **Incoming Software Engineer Intern**  
+- **Software Engineer Intern**  
   Microsoft Corporation, USA  
   May 2025 - August 2025
   
